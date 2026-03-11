@@ -12,6 +12,6 @@ resources:
       development: true
       libraries:
         - file:
-            path: ../src/pipeline/02_silver.sql
+            path: ../src/02_silver.sql
         - file:
-            path: ../src/pipeline/03_gold.sql
+            path: ../src/03_gold.sql
